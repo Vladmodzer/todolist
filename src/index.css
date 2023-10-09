@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-width: 768px) {
+  .container {
+    /* Adjust container styles for mobile */
+  }
+
+  .input-field {
+    /* Adjust input field styles for mobile */
+  }
+
+  .add-button {
+    /* Adjust add button styles for mobile */
+  }
+
+  .todo-item {
+    /* Adjust todo item styles for mobile */
+  }
+
+  .delete-button {
+    /* Adjust delete button styles for mobile */
+  }
+}
